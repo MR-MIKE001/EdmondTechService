@@ -87,7 +87,6 @@ export default function HomeHero() {
             style={{ borderColor: 'rgba(255,255,255,.07)' }}>
             {[
               { name: 'SWAD Digital Solutions', sub: 'Official Channel Partner' },
-              { name: 'SWAD Holdings Ltd.',     sub: 'Nigerian Multinational'   },
               { name: 'Kano State',             sub: 'Exclusive Territory'      },
             ].map(t => (
               <div key={t.name} className="flex items-center gap-2.5">

@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <SEOHead
-        title="Kano's Exclusive Technology Solutions Partner"
+        
         description="Edmond Tech Services delivers enterprise-grade digital solutions to businesses across Kano State, Nigeria. Exclusive SWAD Digital Solutions partner. HotelGo PMS, business software, local support."
         canonical="/"
       />
