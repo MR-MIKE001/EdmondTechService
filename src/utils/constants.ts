@@ -40,16 +40,11 @@ export const WHY_ITEMS = [
   },
   {
     number: '02',
-    heading: 'National Brand, Local Team',
-    body: 'Backed by SWAD Holdings — a Nigerian multinational — with a team that is physically present in your city.',
-  },
-  {
-    number: '03',
     heading: 'Straightforward Onboarding',
     body: 'From first conversation to live system in days — not weeks. We handle setup, training, and support.',
   },
   {
-    number: '04',
+    number: '03',
     heading: 'Solutions That Grow With You',
     body: 'Whether you have 10 rooms or 100, our solutions scale with your business at every stage.',
   },
