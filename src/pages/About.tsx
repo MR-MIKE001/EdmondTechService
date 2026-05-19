@@ -3,7 +3,7 @@ import PageHero  from '@/components/ui/PageHero'
 import CTAStrip  from '@/components/ui/CTAStrip'
 import Eyebrow   from '@/components/ui/Eyebrow'
 import Reveal    from '@/components/ui/Reveal'
-import { DIRECTOR_NAME, OFFICE_ADDRESS } from '@/utils/constants'
+import { DIRECTOR_NAME } from '@/utils/constants'
 
 export default function About() {
   return (
