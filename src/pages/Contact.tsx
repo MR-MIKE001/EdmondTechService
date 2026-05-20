@@ -76,32 +76,6 @@ export default function Contact() {
         </div>
       </section>
 
-      {/* ── Map ── */}
-      <section className="py-0 bg-steel-50" aria-labelledby="map-h">
-        <div className="max-w-7xl mx-auto px-6 py-20">
-          <h2 id="map-h" className="text-2xl font-bold text-center mb-10 font-display text-navy-900">
-            Find Us in Kano
-          </h2>
-          {/*
-            PRODUCTION: Replace this div with a Google Maps embed:
-            <iframe
-              src="https://www.google.com/maps/embed?pb=YOUR_EMBED_PARAMS"
-              width="100%" height="400" style={{ border: 0 }}
-              allowFullScreen loading="lazy"
-              title="Edmond Tech Services — office location in Kano"
-            />
-          */}
-          <div className="rounded-2xl flex flex-col items-center justify-center min-h-[360px]"
-            style={{ background: 'var(--s100)', border: '2px solid var(--s200)' }}
-            role="region" aria-label="Map placeholder — replace with Google Maps embed">
-            <div className="text-6xl mb-5" aria-hidden="true">📍</div>
-            <p className="font-bold text-xl font-display text-navy-900">Kano State, Nigeria</p>
-            <p className="text-slate-400 text-xs mt-3 text-center px-10">
-              Replace this block with a Google Maps embed in production.
-            </p>
-          </div>
-        </div>
-      </section>
 
       {/* ── Contact form ── */}
       <section className="py-28 bg-white" aria-labelledby="form-h">

@@ -122,7 +122,7 @@ export default function About() {
                 <div className="text-6xl mb-5" aria-hidden="true">🗺️</div>
                 <p className="font-bold text-xl font-display text-navy-900 mb-2">Kano State, Nigeria</p>
                 <p className="text-slate-400 text-xs text-center px-12">
-                  Replace this placeholder with a Google Maps embed for production.
+                 No 1 airport road by Dan Tata house opposite signature bank before International hospital, Kano, Nigeria
                 </p>
               </div>
             </Reveal>
