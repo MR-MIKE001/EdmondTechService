@@ -59,7 +59,7 @@ export default function Footer() {
           <p className="text-white/20 text-xs">
             © {new Date().getFullYear()} {COMPANY_NAME}. Authorised Channel Partner of SWAD Digital Solutions Ltd.
           </p>
-          <p className="text-white/15 text-xs">Powered by SWAD Holdings Ltd.</p>
+          <p className="text-white/15 text-xs">Powered by SWAD Digital Solution Ltd.</p>
         </div>
       </div>
     </footer>

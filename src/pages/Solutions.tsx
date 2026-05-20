@@ -7,6 +7,7 @@ import WAIcon            from '@/components/ui/WAIcon'
 import HotelGoDashboard  from '@/components/sections/HotelGoDashboard'
 import ProcessSteps      from '@/components/sections/ProcessSteps'
 import { WHATSAPP_URL, HOTELGO_FEATURES } from '@/utils/constants'
+import IndustriesServed from '@/components/sections/IndustriesServed'
 
 export default function Solutions() {
   return (
@@ -85,6 +86,7 @@ export default function Solutions() {
           </div>
         </div>
       </section>
+      <IndustriesServed />
 
       {/* ── More Solutions ── */}
       <section className="py-28 bg-steel-50" aria-labelledby="more-sol-h">

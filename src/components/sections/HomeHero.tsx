@@ -66,7 +66,7 @@ export default function HomeHero() {
 
           <p className="text-xl text-white/55 mb-12 leading-relaxed max-w-lg">
             Edmond Tech Services connects businesses across Kano State to enterprise-grade digital solutions —
-            built for Africa, backed by SWAD Holdings, delivered locally.
+            built for Africa, backed by SWAD Digital Solution LTD, delivered locally.
           </p>
 
           {/* CTAs */}

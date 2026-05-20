@@ -50,6 +50,7 @@ export const WHY_ITEMS = [
   },
 ];
 
+
 // ─── HotelGo features ─────────────────────────────────────────
 export const HOTELGO_FEATURES = [
   'Front desk and reception management',

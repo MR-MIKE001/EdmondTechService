@@ -5,6 +5,7 @@ import ValueProps      from '@/components/sections/ValueProps'
 import AboutSnippet    from '@/components/sections/AboutSnippet'
 import SolutionsOverview from '@/components/sections/SolutionsOverview'
 import WhyEdmond       from '@/components/sections/WhyEdmond'
+import IndustriesServed from '@/components/sections/IndustriesServed'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <AboutSnippet />
       <SolutionsOverview />
       <WhyEdmond />
+      <IndustriesServed />
       <CTAStrip
         headline="Ready to see what the right technology can do for your business?"
         sub="Talk to our team today. No pressure, no jargon — just a straight conversation about what you need."

@@ -122,7 +122,7 @@ export default function Contact() {
 
       <CTAStrip
         headline="Let's have a conversation."
-        sub="We are a Kano business serving Kano businesses. Whatever you need, we are here."
+        sub="We are based in Kano and serve Kano businesses. Whatever you need, we are here."
         cta="Message Us on WhatsApp"
       />
     </>

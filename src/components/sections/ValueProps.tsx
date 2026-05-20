@@ -9,7 +9,7 @@ const PROPS = [
       </svg>
     ),
     title: 'Locally Based',
-    body: 'We are a Kano State business. We understand your market, your clients, and your operating environment from the inside.',
+    body: 'We are based in Kano State. We understand your market, your clients, and your operating environment from the inside.',
     dark: false,
   },
   {
